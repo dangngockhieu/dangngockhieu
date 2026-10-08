@@ -46,13 +46,13 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/angkhieu.571346" target="blank">
+  <a href="https://www.facebook.com/khieu.dang288" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangngockhieu-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/khieu-dang-611586357" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dangngockhieu-linkedin" />
   </a>
-  <a href="mailto:khieu.dang2808@hcmut.edu.vn" target="top">
+  <a href="mailto:khieudangngoc@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dangngockhieu-email" />
   </a>
 </div>
