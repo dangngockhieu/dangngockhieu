@@ -1,46 +1,98 @@
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=%C4%90%E1%BA%B7ng%20Khi%C3%AAu&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=20&descAlignY=58" alt="banner" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+%C4%90%E1%BA%B7ng+Khi%C3%AAu;Clean+code.+Scalable+systems.+Real+impact.;Building+reliable+software+end-to-end" alt="Typing SVG" />
+  </a>
+</div>
+
 ## 👉 About me
 - 👨‍🎓 Training in Ho Chi Minh City University of Technology - VNU HCM.
-- 🚀 Focusing on backend development and building high-performance APIs.
-- 💻 Main tech: Java, Spring, JavaScript, TypeScript, React, MySQL, RESTful APIs.
+- 🚀 Focusing on software development and building scalable, high-performance applications.
+- 💻 Main tech: Java, Spring, JavaScript, TypeScript, NestJS, React, Go, Gin, MySQL, PostgreSQL, MongoDB, RESTful APIs.
 ---
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=#2F2625" alt="Java logo" title="Java" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=#6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=#2496ED" alt="Docker logo" title="Docker" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=#85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=#FF4438" alt="Redis logo" title="Redis" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
 
+### 👉 Programming languages
 
+<p align="left">
+  &emsp;
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=coffeescript&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" height="32"></a>
+  &emsp;
+</p>
+
+### 👉 Frontend Development
+
+<p align="left">
+  &emsp;
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232A.svg?logo=react&logoColor=%2361DAFB" height="32"></a>
+  &emsp;
+</p>
+
+### 👉 Backend
+
+<p align="left">
+  &emsp;
+  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin-%2300ADD8.svg?logo=go&logoColor=white" height="32"></a>
+  &emsp;
+</p>
+
+### 👉 Databases
+
+<p align="left">
+  &emsp;
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white" height="32"></a>
+  &emsp;
+</p>
+
+### 👉 Software & Tools
+
+<p align="left">
+  &emsp;
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=black" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-%234B32C3.svg?logo=eslint&logoColor=white" height="32"></a>
+  &emsp;
+</p>
 <br>
 <h2 align="center">🤖 Where to find me 🤖</h2>
 <br>
@@ -57,3 +109,5 @@
   </a>
 </div>
 
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer" />
