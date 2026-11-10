@@ -68,6 +68,8 @@
   &emsp;
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" height="32"></a>
   &emsp;
+  <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%23003545.svg?logo=mariadb&logoColor=white" height="32"></a>
+  &emsp;
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white" height="32"></a>
   &emsp;
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" height="32"></a>
