@@ -82,9 +82,11 @@
   &emsp;
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" height="32"></a>
   &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white" height="32"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black" height="32"></a>
   &emsp;
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" height="32"></a>
+  &emsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white" height="32"></a>
   &emsp;
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white" height="32"></a>
   &emsp;
